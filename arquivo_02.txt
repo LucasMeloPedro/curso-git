@@ -1,0 +1,3 @@
+Arquivo teste 02
+
+Mais uma linha no arquivo
